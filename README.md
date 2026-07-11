@@ -127,12 +127,12 @@ Current interests include:
 
 <table width="100%" border="0" cellpadding="10" cellspacing="0">
   <tr valign="middle">
-    <!-- Left GIF -->
-    <td width="20%" align="center">
-      <img src="assets/techstack.gif" width="140" alt="Tech Stack Animation Left">
+    <!-- Left Column: GIF (35% width) -->
+    <td width="35%" align="center">
+      <img src="assets/techstack.gif" width="100%" alt="Tech Stack Animation">
     </td>
-    <!-- Center Tech Stack Icons -->
-    <td width="60%">
+    <!-- Right Column: Technology Icons (65% width) -->
+    <td width="65%">
       <b>Languages</b><br>
       <img src="assets/icons/python.svg" height="26" title="Python">
       <img src="assets/icons/java.svg" height="26" title="Java">
@@ -175,10 +175,6 @@ Current interests include:
       <img src="assets/icons/aws.svg" height="26" title="AWS">
       <img src="assets/icons/linux.svg" height="26" title="Linux">
     </td>
-    <!-- Right GIF -->
-    <td width="20%" align="center">
-      <img src="assets/techstack.gif" width="140" alt="Tech Stack Animation Right">
-    </td>
   </tr>
 </table>
 
@@ -186,54 +182,13 @@ Current interests include:
 
 ## 📊 GitHub Activity
 
-Building consistently. Learning continuously. Sharing openly.
-
-<details>
-  <summary><b>View GitHub Stats &amp; metrics</b></summary>
-  <br>
-
-  <!-- Visitor count & Quick Stats Badges -->
-  <p align="center">
-    <img src="https://komarev.com/normal-visitorcounter/?username=Arjjun-S&color=0066cc&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views">
-    &nbsp;
-    <img src="https://img.shields.io/github/followers/Arjjun-S?color=0066cc&style=flat-square&label=FOLLOWERS" alt="Followers">
-    &nbsp;
-    <img src="https://img.shields.io/github/directory-repository-count/Arjjun-S?color=0066cc&style=flat-square&label=REPOSITORIES" alt="Repositories">
-  </p>
-  
-  <!-- Trophies -->
-  <p align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=Arjjun-S&theme=flat&no-bg=true&no-border=true&margin-w=10" alt="GitHub Trophies">
-  </p>
-
-  <!-- Stats Grid -->
-  <table width="100%" border="0" cellpadding="5" cellspacing="0">
-    <tr valign="top">
-      <td width="50%" align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=Arjjun-S&show_icons=true&bg_color=fafafa&title_color=1d1d1f&text_color=475569&icon_color=0066cc&border_color=e5e5e7&border_radius=8" width="100%" alt="GitHub Stats">
-      </td>
-      <td width="50%" align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arjjun-S&layout=compact&bg_color=fafafa&title_color=1d1d1f&text_color=475569&icon_color=0066cc&border_color=e5e5e7&border_radius=8" width="100%" alt="Top Languages">
-      </td>
-    </tr>
-    <tr valign="top">
-      <td width="50%" align="center">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Arjjun-S&background=fafafa&ring=0066cc&fire=0066cc&currStreakLabel=0066cc&sideNums=475569&sideLabels=475569&dates=64748b&border=e5e5e7&hide_border=false" width="100%" alt="GitHub Streak">
-      </td>
-      <td width="50%" align="center">
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Arjjun-S&theme=github_light" width="100%" alt="Profile Summary Card">
-      </td>
-    </tr>
-  </table>
-  
-  <br>
-  
-  <!-- Snake Animation -->
-  <h4 align="center">🐍 Contribution Game</h4>
-  <p align="center">
-    <img src="assets/snake.svg" width="100%" alt="Contribution Snake">
-  </p>
-</details>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Arjjun-S&show_icons=true&bg_color=fafafa&title_color=1d1d1f&text_color=475569&icon_color=0066cc&border_color=e5e5e7&border_radius=8" alt="GitHub Stats" width="480"><br><br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arjjun-S&layout=compact&bg_color=fafafa&title_color=1d1d1f&text_color=475569&icon_color=0066cc&border_color=e5e5e7&border_radius=8" alt="Top Languages" width="480"><br><br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Arjjun-S&background=fafafa&ring=0066cc&fire=0066cc&currStreakLabel=0066cc&sideNums=475569&sideLabels=475569&dates=64748b&border=e5e5e7&hide_border=false" alt="GitHub Streak" width="480"><br><br>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Arjjun-S&bg_color=fafafa&color=0066cc&line=00cdac&point=ffffff&area=true&hide_border=false&border_color=e5e5e7&border_radius=8" alt="Contribution Graph" width="800"><br><br>
+  <img src="assets/snake.svg" alt="GitHub Snake Animation" width="800">
+</p>
 
 ---
 
@@ -256,12 +211,25 @@ Building consistently. Learning continuously. Sharing openly.
 
 ## 🌱 Beyond Code
 
-When I'm not coding, you'll probably find me:
-* 📖 Reading AI research papers
-* 🧪 Experimenting with new technologies
-* 🎨 Designing modern user interfaces
-* 🛠️ Building side projects
-* 🧠 Learning something completely new
+<table width="100%" border="0" cellpadding="10" cellspacing="0">
+  <tr valign="top">
+    <!-- Left Column: Text (60% width) -->
+    <td width="60%">
+      When I'm not coding, you'll probably find me:
+      <ul>
+        <li>📖 Reading AI research papers</li>
+        <li>🧪 Experimenting with new technologies</li>
+        <li>🎨 Designing modern user interfaces</li>
+        <li>🛠️ Building side projects</li>
+        <li>🧠 Learning something completely new</li>
+      </ul>
+    </td>
+    <!-- Right Column: Rounded Image (40% width) -->
+    <td width="40%" align="center">
+      <img src="assets/beyond_rounded.svg" width="100%" alt="Beyond Code Illustration">
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -274,17 +242,20 @@ When I'm not coding, you'll probably find me:
 ## 🤝 Let's Connect
 
 <p align="center">
-  <a href="mailto:arjjuns.dev@gmail.com"><b>📧 Email</b></a> &nbsp;&bull;&nbsp;
-  <a href="https://linkedin.com/in/arjjun-s"><b>💼 LinkedIn</b></a> &nbsp;&bull;&nbsp;
-  <a href="https://arjjun.dev"><b>🌐 Portfolio</b></a> &nbsp;&bull;&nbsp;
-  <a href="https://github.com/Arjjun-S"><b>🐙 GitHub</b></a>
+  <a href="mailto:arjjuns.dev@gmail.com"><img src="assets/icons/email.svg" height="28" title="Email"></a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://linkedin.com/in/arjjun-s"><img src="assets/icons/linkedin.svg" height="28" title="LinkedIn"></a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://arjjun.dev"><img src="assets/icons/portfolio.svg" height="28" title="Portfolio"></a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/Arjjun-S"><img src="assets/icons/github.svg" height="28" title="GitHub"></a>
 </p>
 
 ---
 
-## 👀 Visitor's Note
-
-Thanks for stopping by. Every repository here represents a lesson learned, a challenge solved, or an idea brought to life.
+<p align="center">
+  <img src="assets/visitor.png" alt="Visitor Card" width="600">
+</p>
 
 <p align="center" opacity="0.5">
   <sub>Designed with an Apple-inspired minimal theme. Handcrafted badges &copy; 2026.</sub>
