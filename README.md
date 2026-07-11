@@ -119,67 +119,8 @@ Current interests include:
 
 ## Abilities I Have
 
-<table width="100%" border="0" cellpadding="10" cellspacing="0">
-  <tr valign="middle">
-    <!-- Left Column: Static Image (35% width) -->
-    <td width="35%" align="center">
-      <img src="assets/tech.png" width="100%" alt="Abilities Illustrative Graph">
-    </td>
-    <!-- Right Column: Technology Icons (65% width) -->
-    <td width="65%">
-      <b>Languages</b><br>
-      <img src="assets/icons/python.svg" height="26" title="Python">
-      <img src="assets/icons/java.svg" height="26" title="Java">
-      <img src="assets/icons/c.svg" height="26" title="C">
-      <img src="assets/icons/javascript.svg" height="26" title="JavaScript">
-      <img src="assets/icons/typescript.svg" height="26" title="TypeScript">
-      <img src="assets/icons/sql.svg" height="26" title="SQL">
-      <br><br>
-      <b>Artificial Intelligence</b><br>
-      <img src="assets/icons/pytorch.svg" height="26" title="PyTorch">
-      <img src="assets/icons/tensorflow.svg" height="26" title="TensorFlow">
-      <img src="assets/icons/opencv.svg" height="26" title="OpenCV">
-      <img src="assets/icons/scikit-learn.svg" height="26" title="Scikit-learn">
-      <img src="assets/icons/hugging_face.svg" height="26" title="Hugging Face">
-      <img src="assets/icons/pandas.svg" height="26" title="Pandas">
-      <img src="assets/icons/numpy.svg" height="26" title="NumPy">
-      <br><br>
-      <b>Mobile</b><br>
-      <img src="assets/icons/flutter.svg" height="26" title="Flutter">
-      <img src="assets/icons/dart.svg" height="26" title="Dart">
-      <br><br>
-      <b>Web</b><br>
-      <img src="assets/icons/react.svg" height="26" title="React">
-      <img src="assets/icons/next_js.svg" height="26" title="Next.js">
-      <img src="assets/icons/node_js.svg" height="26" title="Node.js">
-      <img src="assets/icons/express.svg" height="26" title="Express">
-      <img src="assets/icons/fastapi.svg" height="26" title="FastAPI">
-      <br><br>
-      <b>Database</b><br>
-      <img src="assets/icons/mysql.svg" height="26" title="MySQL">
-      <img src="assets/icons/postgresql.svg" height="26" title="PostgreSQL">
-      <img src="assets/icons/firebase.svg" height="26" title="Firebase">
-      <img src="assets/icons/supabase.svg" height="26" title="Supabase">
-      <img src="assets/icons/prisma.svg" height="26" title="Prisma">
-      <br><br>
-      <b>Cloud &amp; DevOps</b><br>
-      <img src="assets/icons/docker.svg" height="26" title="Docker">
-      <img src="assets/icons/git.svg" height="26" title="Git">
-      <img src="assets/icons/github_actions.svg" height="26" title="GitHub Actions">
-      <img src="assets/icons/aws.svg" height="26" title="AWS">
-      <img src="assets/icons/linux.svg" height="26" title="Linux">
-    </td>
-  </tr>
-</table>
-
-## GitHub Activity
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Arjjun-S&show_icons=true&bg_color=fafafa&title_color=1d1d1f&text_color=475569&icon_color=0066cc&border_color=e5e5e7&border_radius=8" alt="GitHub Stats" width="480"><br><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arjjun-S&layout=compact&bg_color=fafafa&title_color=1d1d1f&text_color=475569&icon_color=0066cc&border_color=e5e5e7&border_radius=8" alt="Top Languages" width="480"><br><br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Arjjun-S&background=fafafa&ring=0066cc&fire=0066cc&currStreakLabel=0066cc&sideNums=475569&sideLabels=475569&dates=64748b&border=e5e5e7&hide_border=false" alt="GitHub Streak" width="480"><br><br>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Arjjun-S&bg_color=fafafa&color=0066cc&line=00cdac&point=ffffff&area=true&hide_border=false&border_color=e5e5e7&border_radius=8" alt="Contribution Graph" width="800"><br><br>
-  <img src="assets/snake.svg" alt="GitHub Snake Animation" width="800">
+  <img src="assets/tech.jpeg" alt="Abilities" width="100%">
 </p>
 
 ## Goals
@@ -212,9 +153,9 @@ Current interests include:
         <li>Learning something completely new</li>
       </ul>
     </td>
-    <!-- Right Column: Rounded Image (40% width) -->
+    <!-- Right Column: Image (40% width) -->
     <td width="40%" align="center">
-      <img src="assets/beyond_rounded.svg" width="100%" alt="Beyond Code Illustration">
+      <img src="assets/beyond.jpeg" width="100%" alt="Beyond Code Illustration">
     </td>
   </tr>
 </table>
@@ -236,5 +177,5 @@ Current interests include:
 </p>
 
 <p align="center">
-  <img src="assets/visitor_rounded.svg" alt="Visitor Banner" width="100%">
+  <img src="assets/visitor.png" alt="Visitor Banner" width="100%">
 </p>
