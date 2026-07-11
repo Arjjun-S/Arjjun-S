@@ -11,7 +11,9 @@ I enjoy working at the intersection of Artificial Intelligence, Computer Vision,
 
 Currently exploring scalable AI systems, multimodal learning, and modern software architecture.
 
-## Featured Projects
+---
+
+### Featured Projects
 
 <table width="100%" border="0" cellpadding="8" cellspacing="0">
   <tr valign="top">
@@ -106,7 +108,9 @@ Currently exploring scalable AI systems, multimodal learning, and modern softwar
   </tr>
 </table>
 
-## Research
+---
+
+### Research
 
 Researching intelligent healthcare systems using Deep Learning and Computer Vision.
 
@@ -117,13 +121,17 @@ Current interests include:
 * **Natural Language Processing (NLP)**
 * **Healthcare AI**
 
-## Abilities I Have
+---
+
+### Abilities I Have
 
 <p align="center">
   <img src="assets/tech.jpeg" alt="Abilities" width="100%">
 </p>
 
-## Goals
+---
+
+### Goals
 
 * **2026**
   * Publish quality research
@@ -138,7 +146,9 @@ Current interests include:
   * Open Source Contributor
   * AI Product Builder
 
-## Beyond Code
+---
+
+### Beyond Code
 
 <table width="100%" border="0" cellpadding="10" cellspacing="0">
   <tr valign="top">
@@ -160,11 +170,17 @@ Current interests include:
   </tr>
 </table>
 
-## Favorite Quote
+---
 
-<blockquote>"The best way to predict the future is to build it."</blockquote>
+### Favorite Quote
 
-## Let's Connect
+<p align="center">
+  <i>"The best way to predict the future is to build it."</i>
+</p>
+
+---
+
+### Let's Connect
 
 <p align="center">
   <a href="mailto:arjjuns.dev@gmail.com"><img src="assets/icons/email.svg" height="46" title="Email"></a>
@@ -172,9 +188,9 @@ Current interests include:
   <a href="https://linkedin.com/in/arjjun-s"><img src="assets/icons/linkedin.svg" height="46" title="LinkedIn"></a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://arjjun.dev"><img src="assets/icons/portfolio.svg" height="46" title="Portfolio"></a>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/Arjjun-S"><img src="assets/icons/github.svg" height="46" title="GitHub"></a>
 </p>
+
+---
 
 <p align="center">
   <img src="assets/visitor.png" alt="Visitor Banner" width="100%">
