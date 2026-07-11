@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="86" height="28" viewBox="0 0 86 28">
+  <rect x="0.5" y="0.5" width="85" height="27" rx="6" fill="#f5f5f7" stroke="#e5e5e7" stroke-width="1"/>
+  <g transform="translate(10, 6)">
+    <circle cx="8" cy="5" r="3.5" fill="none" stroke="#e01b24" stroke-width="1.5"/><circle cx="5" cy="10" r="3.5" fill="none" stroke="#2ec27e" stroke-width="1.5"/><circle cx="11" cy="10" r="3.5" fill="none" stroke="#3584e4" stroke-width="1.5"/>
+  </g>
+  <text x="34" y="17.5" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="11.5" font-weight="500" fill="#1d1d1f">OpenCV</text>
+</svg>
