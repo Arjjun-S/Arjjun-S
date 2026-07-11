@@ -1,5 +1,5 @@
-# Welcome to Arjjun's Digital Workshop
-### Machine learning, Web apps, and a few experiments that escaped the whiteboard.
+### Welcome to Arjjun's Digital Workshop
+#### Machine learning, Web apps, and a few experiments that escaped the whiteboard.
 
 <p align="center">
   <img src="assets/banner.png" alt="Arjjun's Lab Banner" width="100%">
@@ -10,8 +10,6 @@ I'm Arjjun, a Machine Learning Engineer and AI researcher passionate about build
 I enjoy working at the intersection of Artificial Intelligence, Computer Vision, Mobile Development, and Full Stack Engineering. Whether it's training deep learning models, developing Flutter applications, or publishing research, I love transforming ideas into practical software.
 
 Currently exploring scalable AI systems, multimodal learning, and modern software architecture.
-
----
 
 ### Featured Projects
 
@@ -108,8 +106,6 @@ Currently exploring scalable AI systems, multimodal learning, and modern softwar
   </tr>
 </table>
 
----
-
 ### Research
 
 Researching intelligent healthcare systems using Deep Learning and Computer Vision.
@@ -121,15 +117,11 @@ Current interests include:
 * **Natural Language Processing (NLP)**
 * **Healthcare AI**
 
----
-
 ### Abilities I Have
 
 <p align="center">
   <img src="assets/tech.jpeg" alt="Abilities" width="100%">
 </p>
-
----
 
 ### Goals
 
@@ -146,14 +138,11 @@ Current interests include:
   * Open Source Contributor
   * AI Product Builder
 
----
-
 ### Beyond Code
 
 <table width="100%" border="0" cellpadding="10" cellspacing="0">
   <tr valign="top">
-    <!-- Left Column: Text (60% width) -->
-    <td width="60%">
+    <td width="50%">
       When I'm not coding, you'll probably find me:
       <ul>
         <li>Reading AI research papers</li>
@@ -163,14 +152,11 @@ Current interests include:
         <li>Learning something completely new</li>
       </ul>
     </td>
-    <!-- Right Column: Image (40% width) -->
-    <td width="40%" align="center">
+    <td width="50%" align="center">
       <img src="assets/beyond.jpeg" width="100%" alt="Beyond Code Illustration">
     </td>
   </tr>
 </table>
-
----
 
 ### Favorite Quote
 
@@ -178,19 +164,15 @@ Current interests include:
   <i>"The best way to predict the future is to build it."</i>
 </p>
 
----
-
 ### Let's Connect
 
 <p align="center">
-  <a href="mailto:arjjuns.dev@gmail.com"><img src="assets/icons/email.svg" height="46" title="Email"></a>
+  <a href="mailto:arjjuns288@gmail.com"><img src="assets/icons/email.svg" height="46" title="Email"></a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://linkedin.com/in/arjjun-s"><img src="assets/icons/linkedin.svg" height="46" title="LinkedIn"></a>
+  <a href="https://www.linkedin.com/in/arjjuns/"><img src="assets/icons/linkedin.svg" height="46" title="LinkedIn"></a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://arjjun.dev"><img src="assets/icons/portfolio.svg" height="46" title="Portfolio"></a>
 </p>
-
----
 
 <p align="center">
   <img src="assets/visitor.png" alt="Visitor Banner" width="100%">
