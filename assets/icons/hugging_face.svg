@@ -1,6 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="28" height="28" viewBox="0 0 28 28">
-  <rect x="0.5" y="0.5" width="27" height="27" rx="6" fill="#f5f5f7" stroke="#e5e5e7" stroke-width="1"/>
-  <g transform="translate(6, 6)">
-    <circle cx="8" cy="8" r="7" fill="#FFD21E"/><circle cx="5.5" cy="7" r="1" fill="#000000"/><circle cx="10.5" cy="7" r="1" fill="#000000"/><path d="M5,10 Q8,13 11,10" stroke="#000" stroke-width="1" fill="none" stroke-linecap="round"/><path d="M2,7 c0,0 -1,-2 0,-3 s2,1 2,1 M14,7 c0,0 1,-2 0,-3 s-2,1 -2,1" stroke="#000" stroke-width="0.8" fill="none"/>
-  </g>
-</svg>

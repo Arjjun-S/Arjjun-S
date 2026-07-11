@@ -5,21 +5,19 @@
   <img src="assets/banner.png" alt="Arjjun's Lab Banner" width="100%">
 </p>
 
-I'm Arjjun, a Machine Learning Engineer and AI enthusiast passionate about building intelligent products that solve real-world problems.
+I'm Arjjun, a Machine Learning Engineer and AI researcher passionate about building intelligent products that solve real-world problems.
 
 I enjoy working at the intersection of Artificial Intelligence, Computer Vision, Mobile Development, and Full Stack Engineering. Whether it's training deep learning models, developing Flutter applications, or publishing research, I love transforming ideas into practical software.
 
 Currently exploring scalable AI systems, multimodal learning, and modern software architecture.
 
----
-
-## 💻 Featured Projects
+## Featured Projects
 
 <table width="100%" border="0" cellpadding="8" cellspacing="0">
   <tr valign="top">
     <!-- PosePilot AI -->
     <td width="50%">
-      <h3>🤖 PosePilot AI</h3>
+      <h3>PosePilot AI</h3>
       <p>AI-powered mobile application that recommends professional poses using computer vision and AI.</p>
       <p>
         <img src="assets/icons/python.svg" height="24" title="Python">
@@ -33,7 +31,7 @@ Currently exploring scalable AI systems, multimodal learning, and modern softwar
     </td>
     <!-- CXR8 -->
     <td width="50%">
-      <h3>🩺 CXR8</h3>
+      <h3>CXR8</h3>
       <p>Research project on multi-label thoracic disease classification using Deep Learning and Vision Transformers.</p>
       <p>
         <img src="assets/icons/python.svg" height="24" title="Python">
@@ -49,7 +47,7 @@ Currently exploring scalable AI systems, multimodal learning, and modern softwar
   <tr valign="top">
     <!-- ScrapeSRM -->
     <td width="50%">
-      <h3>🕸️ ScrapeSRM</h3>
+      <h3>ScrapeSRM</h3>
       <p>Secure student portal analytics platform with encrypted authentication and modern dashboards.</p>
       <p>
         <img src="assets/icons/python.svg" height="24" title="Python">
@@ -63,7 +61,7 @@ Currently exploring scalable AI systems, multimodal learning, and modern softwar
     </td>
     <!-- Brochify -->
     <td width="50%">
-      <h3>📄 Brochify</h3>
+      <h3>Brochify</h3>
       <p>Canva-inspired brochure and certificate generator with AI-assisted content creation.</p>
       <p>
         <img src="assets/icons/javascript.svg" height="24" title="JavaScript">
@@ -79,7 +77,7 @@ Currently exploring scalable AI systems, multimodal learning, and modern softwar
   <tr valign="top">
     <!-- InfinityVoid Browser -->
     <td width="50%">
-      <h3>🌌 InfinityVoid Browser</h3>
+      <h3>InfinityVoid Browser</h3>
       <p>Web browser optimized for 3D web environments and virtual spaces with robust security protocols.</p>
       <p>
         <img src="assets/icons/c.svg" height="24" title="C">
@@ -93,7 +91,7 @@ Currently exploring scalable AI systems, multimodal learning, and modern softwar
     </td>
     <!-- SyncSpeaker -->
     <td width="50%">
-      <h3>🔊 SyncSpeaker</h3>
+      <h3>SyncSpeaker</h3>
       <p>Real-time cross-device audio synchronization tool for creating ad-hoc multi-speaker sound systems.</p>
       <p>
         <img src="assets/icons/flutter.svg" height="24" title="Flutter">
@@ -108,28 +106,24 @@ Currently exploring scalable AI systems, multimodal learning, and modern softwar
   </tr>
 </table>
 
----
-
-## 🧠 Research
+## Research
 
 Researching intelligent healthcare systems using Deep Learning and Computer Vision.
 
 Current interests include:
-* 🩺 **Medical Image Analysis**
-* 🔍 **Explainable AI (XAI)**
-* 👁️ **Vision Transformers (ViTs)**
-* 💬 **Natural Language Processing (NLP)**
-* 🤖 **Healthcare AI**
+* **Medical Image Analysis**
+* **Explainable AI (XAI)**
+* **Vision Transformers (ViTs)**
+* **Natural Language Processing (NLP)**
+* **Healthcare AI**
 
----
-
-## 🛠️ Tech Stack
+## Abilities I Have
 
 <table width="100%" border="0" cellpadding="10" cellspacing="0">
   <tr valign="middle">
-    <!-- Left Column: GIF (35% width) -->
+    <!-- Left Column: Static Image (35% width) -->
     <td width="35%" align="center">
-      <img src="assets/techstack.gif" width="100%" alt="Tech Stack Animation">
+      <img src="assets/tech.png" width="100%" alt="Abilities Illustrative Graph">
     </td>
     <!-- Right Column: Technology Icons (65% width) -->
     <td width="65%">
@@ -178,9 +172,7 @@ Current interests include:
   </tr>
 </table>
 
----
-
-## 📊 GitHub Activity
+## GitHub Activity
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Arjjun-S&show_icons=true&bg_color=fafafa&title_color=1d1d1f&text_color=475569&icon_color=0066cc&border_color=e5e5e7&border_radius=8" alt="GitHub Stats" width="480"><br><br>
@@ -190,9 +182,7 @@ Current interests include:
   <img src="assets/snake.svg" alt="GitHub Snake Animation" width="800">
 </p>
 
----
-
-## 🎯 Goals
+## Goals
 
 * **2026**
   * Publish quality research
@@ -207,9 +197,7 @@ Current interests include:
   * Open Source Contributor
   * AI Product Builder
 
----
-
-## 🌱 Beyond Code
+## Beyond Code
 
 <table width="100%" border="0" cellpadding="10" cellspacing="0">
   <tr valign="top">
@@ -217,11 +205,11 @@ Current interests include:
     <td width="60%">
       When I'm not coding, you'll probably find me:
       <ul>
-        <li>📖 Reading AI research papers</li>
-        <li>🧪 Experimenting with new technologies</li>
-        <li>🎨 Designing modern user interfaces</li>
-        <li>🛠️ Building side projects</li>
-        <li>🧠 Learning something completely new</li>
+        <li>Reading AI research papers</li>
+        <li>Experimenting with new technologies</li>
+        <li>Designing modern user interfaces</li>
+        <li>Building side projects</li>
+        <li>Learning something completely new</li>
       </ul>
     </td>
     <!-- Right Column: Rounded Image (40% width) -->
@@ -231,32 +219,22 @@ Current interests include:
   </tr>
 </table>
 
----
+## Favorite Quote
 
-## 💬 Favorite Quote
+<blockquote>"The best way to predict the future is to build it."</blockquote>
 
-> "The best way to predict the future is to build it."
-
----
-
-## 🤝 Let's Connect
+## Let's Connect
 
 <p align="center">
-  <a href="mailto:arjjuns.dev@gmail.com"><img src="assets/icons/email.svg" height="28" title="Email"></a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://linkedin.com/in/arjjun-s"><img src="assets/icons/linkedin.svg" height="28" title="LinkedIn"></a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://arjjun.dev"><img src="assets/icons/portfolio.svg" height="28" title="Portfolio"></a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/Arjjun-S"><img src="assets/icons/github.svg" height="28" title="GitHub"></a>
+  <a href="mailto:arjjuns.dev@gmail.com"><img src="assets/icons/email.svg" height="46" title="Email"></a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://linkedin.com/in/arjjun-s"><img src="assets/icons/linkedin.svg" height="46" title="LinkedIn"></a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://arjjun.dev"><img src="assets/icons/portfolio.svg" height="46" title="Portfolio"></a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/Arjjun-S"><img src="assets/icons/github.svg" height="46" title="GitHub"></a>
 </p>
-
----
 
 <p align="center">
-  <img src="assets/visitor.png" alt="Visitor Card" width="600">
-</p>
-
-<p align="center" opacity="0.5">
-  <sub>Designed with an Apple-inspired minimal theme. Handcrafted badges &copy; 2026.</sub>
+  <img src="assets/visitor_rounded.svg" alt="Visitor Banner" width="100%">
 </p>
