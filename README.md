@@ -167,11 +167,11 @@ Current interests include:
 ### Let's Connect
 
 <p align="center">
-  <a href="mailto:arjjuns288@gmail.com"><img src="assets/icons/email.svg" height="46" title="Email"></a>
+  <a href="mailto:arjjuns288@gmail.com"><img src="assets/icons/email.png" height="46" title="Email"></a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/arjjuns/"><img src="assets/icons/linkedin.svg" height="46" title="LinkedIn"></a>
+  <a href="https://www.linkedin.com/in/arjjuns/"><img src="assets/icons/linkedin.png" height="46" title="LinkedIn"></a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://arjjun.dev"><img src="assets/icons/portfolio.svg" height="46" title="Portfolio"></a>
+  <a href="https://arjjun.dev"><img src="assets/icons/portfolio.png" height="46" title="Portfolio"></a>
 </p>
 
 <p align="center">
