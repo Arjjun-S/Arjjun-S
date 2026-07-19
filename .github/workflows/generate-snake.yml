@@ -1,38 +1,59 @@
-name: Generate Snake Animation
-
+name: GitHub Snake Game
 on:
+
   schedule:
-    # Run every 24 hours
+
     - cron: "0 0 * * *"
+
   workflow_dispatch:
   push:
+
     branches:
+
       - main
-      - master
-
-permissions:
-  contents: write
-
 jobs:
+
   generate:
+
     runs-on: ubuntu-latest
-    timeout-minutes: 5
-    
+
+    timeout-minutes: 10
     steps:
-      # Generates a game of snake from a github user contributions graph, output a svg animation at <svg_out_path>
-      - name: Generate github-contribution-grid-snake.svg
-        uses: Platane/snk/svg-only@v3
+
+      - name: Checkout Repository
+
+        uses: actions/checkout@v3
+
+      - name: Generate GitHub Contributions Snake Animations
+
+        uses: Platane/snk@v3
+
         with:
+
           github_user_name: ${{ github.repository_owner }}
+
           outputs: |
-            assets/snake.svg?palette=github-light
-            assets/snake-dark.svg?palette=github-dark
-            
-      # Push the changes to the repository
-      - name: Push github-contribution-grid-snake.svg to the repository
-        uses: crazy-max/ghaction-github-pages@v3.1.0
-        with:
-          target_branch: output
-          build_dir: assets
+
+            dist/github-snake.svg
+
+            dist/github-snake-dark.svg?palette=github-dark
+
+            dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
+
         env:
+
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Deploy to Output Branch
+
+        uses: peaceiris/actions-gh-pages@v3
+
+        with:
+
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+
+          publish_dir: ./dist
+
+          publish_branch: output
+
+          commit_message: "Update snake animation"
