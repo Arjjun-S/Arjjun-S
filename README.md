@@ -138,6 +138,10 @@ Current interests include:
   * Open Source Contributor
   * AI Product Builder
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Arjjun-S/Arjjun-S/output/pacman-contribution-graph-dark.svg" alt="Pac-Man Contribution Graph" />
+</p>
+
 ### Beyond Code
 
 <table width="100%" border="0" cellpadding="10" cellspacing="0">
