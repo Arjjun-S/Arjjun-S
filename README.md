@@ -11,7 +11,7 @@ I enjoy working at the intersection of Artificial Intelligence, Computer Vision,
 
 Currently exploring scalable AI systems, multimodal learning, and modern software architecture.
 
-## LeetCode Stats
+### LeetCode Stats
 
 <p align="center">
   <!-- leetcode-stats-start -->
@@ -25,7 +25,7 @@ Currently exploring scalable AI systems, multimodal learning, and modern softwar
   </a>
 </p>
 
-## Coding Profiles
+### Coding Profiles
 
 <div align="center">
   <a href="https://leetcode.com/u/ArjjunS/" target="_blank">
@@ -37,7 +37,9 @@ Currently exploring scalable AI systems, multimodal learning, and modern softwar
   </a>
 </div>
 
-> Competitive programming and problem-solving progress, updated automatically.
+<p align="center">
+  <i>Every solved problem sharpens the algorithm behind the engineer.</i>
+</p>
 
 ### Featured Projects
 
