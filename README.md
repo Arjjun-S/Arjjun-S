@@ -11,6 +11,34 @@ I enjoy working at the intersection of Artificial Intelligence, Computer Vision,
 
 Currently exploring scalable AI systems, multimodal learning, and modern software architecture.
 
+## 🧩 LeetCode Stats
+
+<p align="center">
+  <!-- leetcode-stats-start -->
+  **Total Solved:** 94 &nbsp;&nbsp;&nbsp;&nbsp; **Contest Rating:** 1389 &nbsp;&nbsp;&nbsp;&nbsp; **Current Streak:** 16 days
+  <!-- leetcode-stats-end -->
+</p>
+
+<p align="center">
+  <a href="https://leetcode.com/u/ArjjunS/">
+    <img src="https://leetcard.jacoblin.cool/ArjjunS" alt="LeetCode Profile Card" />
+  </a>
+</p>
+
+## 💻 Coding Profiles
+
+<p align="center">
+  <a href="https://leetcode.com/u/ArjjunS/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white" alt="LeetCode" />
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.hackerrank.com/arjjuns" target="_blank">
+    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=flat-square&logo=hackerrank&logoColor=white" alt="HackerRank" />
+  </a>
+</p>
+
+> Competitive programming and problem-solving progress, updated automatically.
+
 ### Featured Projects
 
 <table width="100%" border="0" cellpadding="8" cellspacing="0">
