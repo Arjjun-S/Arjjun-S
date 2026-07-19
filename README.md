@@ -11,11 +11,11 @@ I enjoy working at the intersection of Artificial Intelligence, Computer Vision,
 
 Currently exploring scalable AI systems, multimodal learning, and modern software architecture.
 
-## 🧩 LeetCode Stats
+## LeetCode Stats
 
 <p align="center">
   <!-- leetcode-stats-start -->
-  **Total Solved:** 94 &nbsp;&nbsp;&nbsp;&nbsp; **Contest Rating:** 1389 &nbsp;&nbsp;&nbsp;&nbsp; **Current Streak:** 16 days
+  <b>Contest Rating:</b> 1389 &nbsp;&nbsp;&nbsp;&nbsp; <b>Max Streak:</b> 16 days &nbsp;&nbsp;&nbsp;&nbsp; <b>Top Percentage:</b> 87.09%
   <!-- leetcode-stats-end -->
 </p>
 
@@ -25,17 +25,31 @@ Currently exploring scalable AI systems, multimodal learning, and modern softwar
   </a>
 </p>
 
-## 💻 Coding Profiles
+## Coding Profiles
 
-<p align="center">
+<div align="center">
   <a href="https://leetcode.com/u/ArjjunS/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white" alt="LeetCode" />
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.hackerrank.com/arjjuns" target="_blank">
+  <a href="https://www.hackerrank.com/profile/suresharjjun" target="_blank">
     <img src="https://img.shields.io/badge/HackerRank-2EC866?style=flat-square&logo=hackerrank&logoColor=white" alt="HackerRank" />
   </a>
-</p>
+  <!-- hackerrank-badges-start -->
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.hackerrank.com/profile/suresharjjun" target="_blank">
+    <img src="https://img.shields.io/badge/Java-3_Stars-007396?style=flat-square&logo=java&logoColor=white" alt="Java" />
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.hackerrank.com/profile/suresharjjun" target="_blank">
+    <img src="https://img.shields.io/badge/Python-4_Stars-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.hackerrank.com/profile/suresharjjun" target="_blank">
+    <img src="https://img.shields.io/badge/SQL-1_Star-4479A1?style=flat-square&logo=sqlite&logoColor=white" alt="SQL" />
+  </a>
+  <!-- hackerrank-badges-end -->
+</div>
 
 > Competitive programming and problem-solving progress, updated automatically.
 
