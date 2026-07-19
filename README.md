@@ -35,20 +35,6 @@ Currently exploring scalable AI systems, multimodal learning, and modern softwar
   <a href="https://www.hackerrank.com/profile/suresharjjun" target="_blank">
     <img src="https://img.shields.io/badge/HackerRank-2EC866?style=flat-square&logo=hackerrank&logoColor=white" alt="HackerRank" />
   </a>
-  <!-- hackerrank-badges-start -->
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.hackerrank.com/profile/suresharjjun" target="_blank">
-    <img src="https://img.shields.io/badge/Java-3_Stars-007396?style=flat-square&logo=java&logoColor=white" alt="Java" />
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.hackerrank.com/profile/suresharjjun" target="_blank">
-    <img src="https://img.shields.io/badge/Python-4_Stars-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.hackerrank.com/profile/suresharjjun" target="_blank">
-    <img src="https://img.shields.io/badge/SQL-1_Star-4479A1?style=flat-square&logo=sqlite&logoColor=white" alt="SQL" />
-  </a>
-  <!-- hackerrank-badges-end -->
 </div>
 
 > Competitive programming and problem-solving progress, updated automatically.
