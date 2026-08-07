@@ -15,7 +15,7 @@ Currently exploring scalable AI systems, multimodal learning, and modern softwar
 
 <p align="center">
   <!-- leetcode-stats-start -->
-  <b>Contest Rating:</b> 1389 &nbsp;&nbsp;&nbsp;&nbsp; <b>Max Streak:</b> 16 days &nbsp;&nbsp;&nbsp;&nbsp; <b>Top Percentage:</b> 86.99%
+  <b>Contest Rating:</b> 1389 &nbsp;&nbsp;&nbsp;&nbsp; <b>Max Streak:</b> 16 days &nbsp;&nbsp;&nbsp;&nbsp; <b>Top Percentage:</b> 87.0%
   <!-- leetcode-stats-end -->
 </p>
 
