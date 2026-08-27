@@ -22,13 +22,21 @@ jobs:
 
       - name: Generate Pac-Man contribution SVGs
         run: |
-          npx -y pacman-contribution-graph --platform github --username Arjjun-S --gameTheme github -o pacman-contribution-graph.svg
-          npx -y pacman-contribution-graph --platform github --username Arjjun-S --gameTheme github-dark -o pacman-contribution-graph-dark.svg
+          npx -y pacman-contribution-graph --platform github --username Arjjun-S --gameTheme github -o pacman-contribution-graph.svg || true
+          sleep 5
+          npx -y pacman-contribution-graph --platform github --username Arjjun-S --gameTheme github-dark -o pacman-contribution-graph-dark.svg || true
+          
+          # Fallback mechanism if one SVG is missing
+          if [ ! -f pacman-contribution-graph-dark.svg ] && [ -f pacman-contribution-graph.svg ]; then
+            cp pacman-contribution-graph.svg pacman-contribution-graph-dark.svg
+          elif [ ! -f pacman-contribution-graph.svg ] && [ -f pacman-contribution-graph-dark.svg ]; then
+            cp pacman-contribution-graph-dark.svg pacman-contribution-graph.svg
+          fi
 
       - name: Customize colors and background transparency
         run: |
           python3 -c "
-          import re
+          import os, re
           
           files = ['pacman-contribution-graph.svg', 'pacman-contribution-graph-dark.svg']
           active_colors = [
@@ -37,6 +45,9 @@ jobs:
           ]
           
           for filename in files:
+              if not os.path.exists(filename):
+                  print(f'Skipping missing file: {filename}')
+                  continue
               with open(filename, 'r') as f:
                   content = f.read()
               
@@ -55,8 +66,8 @@ jobs:
       - name: Organize output files
         run: |
           mkdir -p output
-          mv pacman-contribution-graph.svg output/
-          mv pacman-contribution-graph-dark.svg output/
+          [ -f pacman-contribution-graph.svg ] && mv pacman-contribution-graph.svg output/
+          [ -f pacman-contribution-graph-dark.svg ] && mv pacman-contribution-graph-dark.svg output/
 
       - name: Deploy SVGs to the output branch
         uses: crazy-max/ghaction-github-pages@v4
